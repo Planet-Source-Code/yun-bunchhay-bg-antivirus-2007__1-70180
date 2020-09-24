@@ -1,0 +1,32 @@
+BG Antivirus 2007 beta
+
+Features:
+- Scan selected area for viruses, worms,...
+- Auto start on startup
+- Scan and remove invalid registry keys (with specific extensions)
+- Manage system processes
+- Manage startup
+- Enable some disables, usually made by viruses
+- Offline and online updates (Under constuction)
+- Auto scan (under construction)
+- Process blocker 
+- File blocker (EXE)
+
+System Requirement:
+- Developed and tested on Windows XP Sp2
+
+Note: The developer doesn't grant any warranty on using this software; therefore, you may use this software at your own risk.
+
+Software Developer:
+Yun Bunchhay
+
+Contact:
+weaseley2002@yahoo.com
+
+Location:
+Phnom Penh, Cambodia
+
+Files:
+	Main folder contains two projects (group project), the main application (WDAntivirus)
+	Folder "Sig Editor" is another VB project to edit virus signature.
+	
